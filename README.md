@@ -5,7 +5,7 @@
 
 ### A collection of Leetcode practice problems completed as part of the CodePath Intermediate Interview Prep course. Not currently organized by programming pattern/data structure. 
 
-[CodePath UMPIRE Technical Interview Strategy](https://guides.codepath.org/compsci/UMPIRE-Interview-Strategy)
+[CodePath UMPIRE Technical Interview Strategy](https://guides.codepath.org/compsci/UMPIRE-Interview-Strategy)\
 [CodePath Fundamental Computer Science Knowledge Guides](https://guides.codepath.org/compsci/)
 
 Action item: Planning on adding additional UMPIRE videos to practice walking through the problems 
@@ -19,15 +19,15 @@ Application preparation
 Behavioral and general interviewing tips
 Practical data structures
 Implementing efficient algorithms
-Over the 10-weeks, the following topics will be highlighted:
+Over the 10-weeks, the following topics will be highlighted:\
 
-Big O
-Hash Tables
-Linked Lists
-Stacks and Queues
-Binary Trees
-Strings and Arrays
-Graphs
+Big O\
+Hash Tables\
+Linked Lists\
+Stacks and Queues\
+Binary Trees\
+Strings and Arrays\
+Graphs\
 The course will also include a preview of real-world software engineering roles and challenges including:
 
 Fireside Q&A chats and info sessions with professional engineers
