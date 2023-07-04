@@ -19,9 +19,9 @@ Application preparation
 Behavioral and general interviewing tips
 Practical data structures
 Implementing efficient algorithms
-Over the 10-weeks, the following topics will be highlighted: \
+Over the 10-weeks, the following topics will be highlighted:
 
-Big O\
+\Big O\
 Hash Tables\
 Linked Lists\
 Stacks and Queues\
