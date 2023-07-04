@@ -19,7 +19,7 @@ Application preparation
 Behavioral and general interviewing tips
 Practical data structures
 Implementing efficient algorithms
-Over the 10-weeks, the following topics will be highlighted:\
+Over the 10-weeks, the following topics will be highlighted: \
 
 Big O\
 Hash Tables\
@@ -33,7 +33,7 @@ The course will also include a preview of real-world software engineering roles 
 Fireside Q&A chats and info sessions with professional engineers
 Industry coaches helping with mock interviews
 Learn what it's like in the day-to-day of different software engineering roles
-What are the common challenges faced in your first full-time software role
+What are the common challenges faced in your first full-time software role\\\
 
 
 
