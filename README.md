@@ -6,7 +6,8 @@
 ### A collection of Leetcode practice problems completed as part of the CodePath Intermediate Interview Prep course. Not currently organized by programming pattern/data structure. 
 
 [CodePath UMPIRE Technical Interview Strategy](https://guides.codepath.org/compsci/UMPIRE-Interview-Strategy)\
-[CodePath Fundamental Computer Science Knowledge Guides](https://guides.codepath.org/compsci/)
+[CodePath Fundamental Computer Science Knowledge Guides](https://guides.codepath.org/compsci/)\
+[levels.fyi Internship Watchlist from the Slack channel - focus on FAANG & unicorns](https://www.levels.fyi/internships/)
 
 Action item: Planning on adding additional UMPIRE videos to practice walking through the problems 
 and to use for future review. 
