@@ -49,6 +49,3 @@ def num_good_nodes(root, path) -> int:
         is_root_good = root.val == max(path + [root.val])
         return num_good_in_left + num_good_in_right + is_root_good
 
-root = input_binary_tree()
-result = goodNodes(root)
-print(result)
