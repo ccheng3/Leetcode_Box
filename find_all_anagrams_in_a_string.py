@@ -6,6 +6,15 @@ class Solution:
         # window substring for anagram status.
         # append all anagram starting index to return array
         # Return the return array
+        #
+        # --> clever optimization improves runtime from O(s * p) to O(s) by
+        # removing left char from curr window map and adding new right char to
+        # curr window map.
+        #
+        # Runtime: O(s) where s is len(s).
+        # Space used: O(2*p) --> reduces to O(p) --> one map for p, the other map constantly updated 
+        # thru sliding window for all substrings in s.
+        # Sliding window length is bounded by len(p). 
 
 
         # edge case --> len(p) > len(s)
